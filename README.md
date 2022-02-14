@@ -1,5 +1,5 @@
 # haven-helper
-Network webapp to help with Gloomhaven book keeping
+Network webapp to help with Gloomhaven bookkeeping
 
 <p>
   Currently closed for alpha testing. Report issues at
