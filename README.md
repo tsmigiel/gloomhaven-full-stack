@@ -62,7 +62,7 @@ Network webapp to help with Gloomhaven bookkeeping
 
 <p>
   Implementation of special rules is incomplete in many scenarios.
-  (35-37, 41, 45, 46, 49-66, 69-71, 74-76, 78, 80, 81, 84, 86, 87,
+  (54-66, 69-71, 74-76, 78, 80, 81, 84, 86, 87,
   89-92).
 </p>
 
