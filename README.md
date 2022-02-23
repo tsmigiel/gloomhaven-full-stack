@@ -1,10 +1,10 @@
-# haven-helper
+# gloomhaven-full-stack
 Network webapp to help with Gloomhaven bookkeeping
 
 <p>
   Currently closed for alpha testing. Report issues at
-  <a href="https://github.com/tsmigiel/haven-helper/issues">
-    https://github.com/tsmigiel/haven-helper/issues.
+  <a href="https://github.com/tsmigiel/gloomhaven-full-stack/issues">
+    https://github.com/tsmigiel/gloomhaven-full-stack/issues.
   </a>
 </p>
 
